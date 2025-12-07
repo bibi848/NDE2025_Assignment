@@ -1,2 +1,2 @@
-# NDE2025_Assignment
-Non-destructive imaging algorithms written for SI &amp; NDE masters unit at the University of Bristol.
+# Non-destructive Evaluation @ University of Bristol
+This repository contains the code and images produced for the NDE part of the SI & NDE masters unit at the University of Bristol. 
